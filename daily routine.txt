@@ -1,0 +1,1 @@
+day 1 installation of vs and sql studio & git bash
